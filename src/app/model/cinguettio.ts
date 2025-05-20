@@ -8,4 +8,6 @@ export interface Cinguettio {
         lat: number
         lng: number
     }
+    userId?:string
+    nick?:string
 }
